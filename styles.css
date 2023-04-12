@@ -1,0 +1,25 @@
+html { background-color: black;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    text-align: center;
+}
+
+body {
+margin-left:100 auto;
+background-color: gray;
+padding: 100px 100px 200px;
+border: 150px;
+color: black;
+}    
+
+
+img {
+margin : auto;
+display : block;
+}  
